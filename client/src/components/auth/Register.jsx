@@ -89,7 +89,7 @@ class Register extends Component {
                                     placeholder="Confirm Password"
                                     name="password2"
                                     type="password"
-                                    value={this.state.passwor2}
+                                    value={this.state.password2}
                                     onChange={this.onChange}
                                     error={errors.password2}
                                 />

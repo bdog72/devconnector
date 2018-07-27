@@ -32,7 +32,7 @@ class Dashboard extends Component {
                             info
                         </p>
                         <Link
-                            to="/create/profile"
+                            to="/create-profile"
                             className="btn btn-lg btn-info"
                         >
                             Create Profile
