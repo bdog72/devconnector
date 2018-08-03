@@ -38,6 +38,9 @@ class Profiles extends Component {
                             <p className="lead text-center">
                                 Browse and connect with developers
                             </p>
+                            <p className="lead text-center">
+                                Please wait for developers to load
+                            </p>
                             {profileItems}
                         </div>
                     </div>
